@@ -13,7 +13,7 @@ from datetime import datetime
 from camera import VideoCamera
 from ad_manager import AdManager
 import config
-bbb=
+bbyyy=
 app = Flask(__name__)
 app.config["SECRET_KEY"] = config.SECRET_KEY
 app.config["MONGO_URI"] = config.MONGO_URI
